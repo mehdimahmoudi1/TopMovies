@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/drawable/bg_image.xml" value="0.155" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/drawable/bg_view.xml" value="0.1" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/drawable/bottom_nav_shape.xml" value="0.1335" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/drawable/bottom_shape_.xml" value="0.155" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/drawable/empty.xml" value="0.1335" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/drawable/favorite_border.xml" value="0.1" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/drawable/shadow.xml" value="0.1335" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/actors_items.xml" value="0.25" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/empty_list.xml" value="0.21195652173913043" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/fragment_blank.xml" value="0.25885416666666666" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/fragment_detail.xml" value="0.25885416666666666" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/fragment_favorite.xml" value="0.27291666666666664" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/fragment_register.xml" value="0.22" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/fragment_search.xml" value="0.22" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/fragment_splash.xml" value="0.25" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/geners_item.xml" value="0.67" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/movies_list_items.xml" value="0.31396786155747836" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/layout/top_movies_item.xml" value="0.21195652173913043" />
+        <entry key="..\:/dev/workspace/Android/Top/app/src/main/res/menu/bottom_manu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

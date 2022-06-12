@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Top Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Faverite</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="fillAllFields">Fill All Fields</string>
+    <string name="geners">Geners</string>
+    <string name="writer">Writer</string>
+    <string name="summery">Summary</string>
+    <string name="moreInfo">More Info</string>
+    <string name="emptyList">List is empty</string>
+    <string name="searchHere">Search …</string>
+    <string name="actors">Actors</string>
+    <string name="lastMovies">Last Movies</string>
+    <string name="moviesname">MoviesName</string>
+    <string name="developed_by">Developed by MehdiMahmoudi</string>
+    <string name="profile">Profile</string>
+    <string name="rate">rate</string>
+    <string name="title">Title</string>
+    <string name="country">Country</string>
+</resources>
